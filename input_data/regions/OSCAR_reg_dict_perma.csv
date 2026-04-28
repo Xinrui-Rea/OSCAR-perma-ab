@@ -1,0 +1,312 @@
+reg_code,National,ISO3,ISO3-numeric,ISO2,FIPS,COACCH,IMAGE26,NGFS downscaled,Continent,Sub-region
+XXX,XXX,XXX,999,XX,XX,,,,,
+ABW,NLD,ABW,533,AW,AA,Laca,RCAM,,Americas,Latin America and the Caribbean
+AFG,AFG,AFG,4,AF,AF,RSAS,RSAS,,Asia,Southern Asia
+AGO,AGO,AGO,24,AO,AO,SSA,RSAF,AGO,Africa,Sub-Saharan Africa
+AIA,GBR,AIA,660,AI,AV,Laca,WEU,,Americas,Latin America and the Caribbean
+ALA,FIN,ALA,248,AX,FI,WEU,WEU,,Europe,Northern Europe
+ALB,ALB,ALB,8,AL,AL,WEU,CEU,ALB,Europe,Southern Europe
+AND,AND,AND,20,AD,AN,WEU,WEU,,Europe,Southern Europe
+ARE,ARE,ARE,784,AE,TC,MiddleEast,ME,ARE,Asia,Western Asia
+ARG,ARG,ARG,32,AR,AR,Laca,RSAM,ARG,Americas,Latin America and the Caribbean
+ARM,ARM,ARM,51,AM,AM,FSU,RUS,ARM,Asia,Western Asia
+ASM,USA,ASM,16,AS,AQ,USA,USA,,Oceania,Polynesia
+ATA,XXX,ATA,10,AQ,AY,,,,Antarctica,Antarctica
+ATF,FRA,ATF,260,TF,FS,SSA,WEU,,Africa,Sub-Saharan Africa
+ATG,ATG,ATG,28,AG,AC,Laca,RCAM,,Americas,Latin America and the Caribbean
+AU-01,AUS,AUS,36,AU,AS,OCE,OCE,AUS,Oceania,Australia and New Zealand
+AU-02,AUS,AUS,36,AU,AS,OCE,OCE,AUS,Oceania,Australia and New Zealand
+AU-03,AUS,AUS,36,AU,AS,OCE,OCE,AUS,Oceania,Australia and New Zealand
+AUS,AUS,AUS,36,AU,AS,OCE,OCE,AUS,Oceania,Australia and New Zealand
+AUT,AUT,AUT,40,AT,AU,WEU,WEU,AUT,Europe,Western Europe
+AU-WA,AUS,AUS,36,AU,AS,OCE,OCE,AUS,Oceania,Australia and New Zealand
+AZE,AZE,AZE,31,AZ,AJ,FSU,RUS,AZE,Asia,Western Asia
+BDI,BDI,BDI,108,BI,BY,SSA,EAF,,Africa,Sub-Saharan Africa
+BEL,BEL,BEL,56,BE,S8,WEU,WEU,BEL,Europe,Western Europe
+BEN,BEN,BEN,204,BJ,DM,SSA,WAF,BEN,Africa,Sub-Saharan Africa
+BES,NLD,BES,535,BQ,NL,Laca,WEU,,Americas,Latin America and the Caribbean
+BFA,BFA,BFA,854,BF,UV,SSA,WAF,,Africa,Sub-Saharan Africa
+BGD,BGD,BGD,50,BD,BG,RSAS,RSAS,BGD,Asia,Southern Asia
+BGR,BGR,BGR,100,BG,BU,CEU,CEU,BGR,Europe,Eastern Europe
+BHR,BHR,BHR,48,BH,BA,MiddleEast,ME,BHR,Asia,Western Asia
+BHS,BHS,BHS,44,BS,BF,Laca,RCAM,,Americas,Latin America and the Caribbean
+BIH,BIH,BIH,70,BA,BK,WEU,CEU,BIH,Europe,Southern Europe
+BLM,FRA,BLM,652,BL,TB,Laca,WEU,,Americas,Latin America and the Caribbean
+BLR,BLR,BLR,112,BY,BO,FSU,UKR,BLR,Europe,Eastern Europe
+BLZ,BLZ,BLZ,84,BZ,BH,Laca,RCAM,,Americas,Latin America and the Caribbean
+BMU,GBR,BMU,60,BM,BD,WEU,WEU,,Americas,Northern America
+BOL,BOL,BOL,68,BO,BL,Laca,RSAM,BOL,Americas,Latin America and the Caribbean
+BR-01,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BR-02,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BR-03,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BR-04,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BR-05,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BRA,BRA,BRA,76,BR,BR,Laca,BRA,BRA,Americas,Latin America and the Caribbean
+BRB,BRB,BRB,52,BB,BB,Laca,RCAM,,Americas,Latin America and the Caribbean
+BRN,BRN,BRN,96,BN,BX,SEAS,SEAS,BRN,Asia,South-eastern Asia
+BTN,BTN,BTN,64,BT,BT,RSAS,RSAS,,Asia,Southern Asia
+BVT,NOR,BVT,74,BV,BV,Laca,WEU,,Americas,Latin America and the Caribbean
+BWA,BWA,BWA,72,BW,BC,SSA,RSAF,BWA,Africa,Sub-Saharan Africa
+CA-01,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CA-02,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CA-03,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CA-BC,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CAF,CAF,CAF,140,CF,CT,SSA,WAF,,Africa,Sub-Saharan Africa
+CAN,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CA-ON,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CA-QC,CAN,CAN,124,CA,CA,CAN,CAN,CAN,Americas,Northern America
+CCK,AUS,CCK,166,CC,CK,OCE,OCE,,Oceania,Australia and New Zealand
+CHE,CHE,CHE,756,CH,SZ,WEU,WEU,CHE,Europe,Western Europe
+CHL,CHL,CHL,152,CL,CI,Laca,RSAM,CHL,Americas,Latin America and the Caribbean
+CHN,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CIV,CIV,CIV,384,CI,IV,SSA,WAF,CIV,Africa,Sub-Saharan Africa
+CMR,CMR,CMR,120,CM,CM,SSA,WAF,CMR,Africa,Sub-Saharan Africa
+CN-01,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CN-02,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CN-03,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CN-04,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CN-05,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+CN-06,CHN,CHN,156,CN,CH,CHN,CHN,CHN,Asia,Eastern Asia
+COD,COD,COD,180,CD,CG,SSA,WAF,COD,Africa,Sub-Saharan Africa
+COG,COG,COG,178,CG,CF,SSA,WAF,COG,Africa,Sub-Saharan Africa
+COK,NZL,COK,184,CK,CW,OCE,OCE,,Oceania,Polynesia
+COL,COL,COL,170,CO,CO,Laca,RSAM,COL,Americas,Latin America and the Caribbean
+COM,COM,COM,174,KM,CN,SSA,EAF,,Africa,Sub-Saharan Africa
+CPV,CPV,CPV,132,CV,CV,SSA,WAF,,Africa,Sub-Saharan Africa
+CRI,CRI,CRI,188,CR,CS,Laca,RCAM,CRI,Americas,Latin America and the Caribbean
+CUB,CUB,CUB,192,CU,CU,Laca,RCAM,CUB,Americas,Latin America and the Caribbean
+CUW,NLD,CUW,531,CW,UC,Laca,WEU,,Americas,Latin America and the Caribbean
+CXR,AUS,CXR,162,CX,KT,OCE,OCE,,Oceania,Australia and New Zealand
+CYM,GBR,CYM,136,KY,CJ,Laca,WEU,,Americas,Latin America and the Caribbean
+CYP,CYP,CYP,196,CY,CY,CEU,CEU,CYP,Asia,Western Asia
+CZE,CZE,CZE,203,CZ,EZ,CEU,CEU,CZE,Europe,Eastern Europe
+DEU,DEU,DEU,276,DE,GM,WEU,WEU,DEU,Europe,Western Europe
+DJI,DJI,DJI,262,DJ,DJ,SSA,EAF,,Africa,Sub-Saharan Africa
+DMA,DMA,DMA,212,DM,DO,Laca,RCAM,,Americas,Latin America and the Caribbean
+DNK,DNK,DNK,208,DK,DA,WEU,WEU,DNK,Europe,Northern Europe
+DOM,DOM,DOM,214,DO,DR,Laca,RCAM,DOM,Americas,Latin America and the Caribbean
+DZA,DZA,DZA,12,DZ,AG,NAF,NAF,DZA,Africa,Northern Africa
+ECU,ECU,ECU,218,EC,EC,Laca,RSAM,ECU,Americas,Latin America and the Caribbean
+EGY,EGY,EGY,818,EG,EG,NAF,NAF,EGY,Africa,Northern Africa
+ERI,ERI,ERI,232,ER,ER,SSA,EAF,ERI,Africa,Sub-Saharan Africa
+ESH,XXX,ESH,732,EH,WI,NAF,NAF,,Africa,Northern Africa
+ESP,ESP,ESP,724,ES,SP,WEU,WEU,ESP,Europe,Southern Europe
+EST,EST,EST,233,EE,EN,FSU,CEU,EST,Europe,Northern Europe
+ETH,ETH,ETH,231,ET,ET,SSA,EAF,ETH,Africa,Sub-Saharan Africa
+FIN,FIN,FIN,246,FI,FI,WEU,WEU,FIN,Europe,Northern Europe
+FJI,FJI,FJI,242,FJ,FJ,OCE,OCE,,Oceania,Melanesia
+FLK,XXX,FLK,238,FK,FA,Laca,RSAM,,Americas,Latin America and the Caribbean
+FRA,FRA,FRA,250,FR,FR,WEU,WEU,FRA,Europe,Western Europe
+FRO,DNK,FRO,234,FO,FO,WEU,WEU,,Europe,Northern Europe
+FSM,FSM,FSM,583,FM,FM,OCE,OCE,,Oceania,Micronesia
+GAB,GAB,GAB,266,GA,GB,SSA,WAF,GAB,Africa,Sub-Saharan Africa
+GBR,GBR,GBR,826,GB,UK,WEU,WEU,GBR,Europe,Northern Europe
+GEO,GEO,GEO,268,GE,GG,FSU,RUS,GEO,Asia,Western Asia
+GGY,GBR,GGY,831,GG,GK,WEU,WEU,,Europe,Northern Europe
+GHA,GHA,GHA,288,GH,GH,SSA,WAF,GHA,Africa,Sub-Saharan Africa
+GIB,GBR,GIB,292,GI,GI,WEU,WEU,GIB,Europe,Southern Europe
+GIN,GIN,GIN,324,GN,GU,SSA,WAF,,Africa,Sub-Saharan Africa
+GLP,FRA,GLP,312,GP,GP,Laca,WEU,,Americas,Latin America and the Caribbean
+GMB,GMB,GMB,270,GM,GA,SSA,WAF,,Africa,Sub-Saharan Africa
+GNB,GNB,GNB,624,GW,PU,SSA,WAF,,Africa,Sub-Saharan Africa
+GNQ,GNQ,GNQ,226,GQ,EK,SSA,WAF,,Africa,Sub-Saharan Africa
+GRC,GRC,GRC,300,GR,GR,WEU,WEU,GRC,Europe,Southern Europe
+GRD,GRD,GRD,308,GD,GJ,Laca,RCAM,,Americas,Latin America and the Caribbean
+GRL,DNK,GRL,304,GL,GL,WEU,WEU,,Americas,Northern America
+GTM,GTM,GTM,320,GT,GT,Laca,RCAM,GTM,Americas,Latin America and the Caribbean
+GUF,FRA,GUF,254,GF,FG,Laca,WEU,,Americas,Latin America and the Caribbean
+GUM,USA,GUM,316,GU,GQ,USA,USA,,Oceania,Micronesia
+GUY,GUY,GUY,328,GY,GY,Laca,RSAM,,Americas,Latin America and the Caribbean
+HKG,CHN,HKG,344,HK,HK,CHN,CHN,HKG,Asia,Eastern Asia
+HMD,AUS,HMD,334,HM,HM,OCE,OCE,,Oceania,Australia and New Zealand
+HND,HND,HND,340,HN,HO,Laca,RCAM,HND,Americas,Latin America and the Caribbean
+HRV,HRV,HRV,191,HR,HR,WEU,CEU,HRV,Europe,Southern Europe
+HTI,HTI,HTI,332,HT,HA,Laca,RCAM,HTI,Americas,Latin America and the Caribbean
+HUN,HUN,HUN,348,HU,HU,CEU,CEU,HUN,Europe,Eastern Europe
+IDN,IDN,IDN,360,ID,ID,SEAS,INDO,IDN,Asia,South-eastern Asia
+IMN,GBR,IMN,833,IM,IMN,WEU,WEU,,Europe,Northern Europe
+IND,IND,IND,356,IN,IN,INDIA,INDIA,IND,Asia,Southern Asia
+IOT,GBR,IOT,86,IO,IO,SSA,WEU,,Africa,Sub-Saharan Africa
+IRL,IRL,IRL,372,IE,EI,WEU,WEU,IRL,Europe,Northern Europe
+IRN,IRN,IRN,364,IR,IR,MiddleEast,ME,IRN,Asia,Southern Asia
+IRQ,IRQ,IRQ,368,IQ,IZ,MiddleEast,ME,IRQ,Asia,Western Asia
+ISL,ISL,ISL,352,IS,IC,WEU,WEU,ISL,Europe,Northern Europe
+ISR,ISR,ISR,376,IL,IS,MiddleEast,ME,ISR,Asia,Western Asia
+ITA,ITA,ITA,380,IT,IT,WEU,WEU,ITA,Europe,Southern Europe
+JAM,JAM,JAM,388,JM,JM,Laca,RCAM,JAM,Americas,Latin America and the Caribbean
+JEY,GBR,JEY,832,JE,JE,WEU,WEU,,Europe,Northern Europe
+JOR,JOR,JOR,400,JO,JO,MiddleEast,ME,JOR,Asia,Western Asia
+JPN,JPN,JPN,392,JP,JA,JAP,JAP,JPN,Asia,Eastern Asia
+KAZ,KAZ,KAZ,398,KZ,KZ,FSU,STAN,KAZ,Asia,Central Asia
+KEN,KEN,KEN,404,KE,KE,SSA,EAF,KEN,Africa,Sub-Saharan Africa
+KGZ,KGZ,KGZ,417,KG,KG,FSU,STAN,KGZ,Asia,Central Asia
+KHM,KHM,KHM,116,KH,CB,SEAS,SEAS,KHM,Asia,South-eastern Asia
+KIR,KIR,KIR,296,KI,KI,OCE,OCE,,Oceania,Micronesia
+KNA,KNA,KNA,659,KN,SC,Laca,RCAM,,Americas,Latin America and the Caribbean
+KOR,KOR,KOR,410,KR,KS,EastAsia,KOR,KOR,Asia,Eastern Asia
+KWT,KWT,KWT,414,KW,KU,MiddleEast,ME,KWT,Asia,Western Asia
+LAO,LAO,LAO,418,LA,LA,SEAS,SEAS,,Asia,South-eastern Asia
+LBN,LBN,LBN,422,LB,LE,MiddleEast,ME,LBN,Asia,Western Asia
+LBR,LBR,LBR,430,LR,LI,SSA,WAF,,Africa,Sub-Saharan Africa
+LBY,LBY,LBY,434,LY,LY,NAF,NAF,LBY,Africa,Northern Africa
+LCA,LCA,LCA,662,LC,ST,Laca,RCAM,,Americas,Latin America and the Caribbean
+LIE,LIE,LIE,438,LI,LS,WEU,WEU,,Europe,Western Europe
+LKA,LKA,LKA,144,LK,CE,RSAS,RSAS,LKA,Asia,Southern Asia
+LSO,LSO,LSO,426,LS,LT,SSA,RSAF,,Africa,Sub-Saharan Africa
+LTU,LTU,LTU,440,LT,LH,FSU,CEU,LTU,Europe,Northern Europe
+LUX,LUX,LUX,442,LU,LU,WEU,WEU,LUX,Europe,Western Europe
+LVA,LVA,LVA,428,LV,LG,FSU,CEU,LVA,Europe,Northern Europe
+MAC,CHN,MAC,446,MO,MC,CHN,CHN,,Asia,Eastern Asia
+MAF,FRA,MAF,663,MF,RN,Laca,WEU,,Americas,Latin America and the Caribbean
+MAR,MAR,MAR,504,MA,MO,NAF,NAF,MAR,Africa,Northern Africa
+MCO,MCO,MCO,492,MC,MN,WEU,WEU,,Europe,Western Europe
+MDA,MDA,MDA,498,MD,MD,FSU,UKR,MDA,Europe,Eastern Europe
+MDG,MDG,MDG,450,MG,MA,SSA,EAF,,Africa,Sub-Saharan Africa
+MDV,MDV,MDV,462,MV,MV,RSAS,RSAS,,Asia,Southern Asia
+MEX,MEX,MEX,484,MX,MX,Laca,MEX,MEX,Americas,Latin America and the Caribbean
+MHL,MHL,MHL,584,MH,RM,OCE,OCE,,Oceania,Micronesia
+MKD,MKD,MKD,807,MK,MK,WEU,CEU,MKD,Europe,Southern Europe
+MLI,MLI,MLI,466,ML,ML,SSA,WAF,MLI,Africa,Sub-Saharan Africa
+MLT,MLT,MLT,470,MT,MT,WEU,WEU,MLT,Europe,Southern Europe
+MMR,MMR,MMR,104,MM,BM,SEAS,SEAS,MMR,Asia,South-eastern Asia
+MNE,MNE,MNE,499,ME,MJ,WEU,CEU,MNE,Europe,Southern Europe
+MNG,MNG,MNG,496,MN,MG,CHN,CHN,MNG,Asia,Eastern Asia
+MNP,USA,MNP,580,MP,CQ,USA,USA,,Oceania,Micronesia
+MOZ,MOZ,MOZ,508,MZ,MZ,SSA,RSAF,MOZ,Africa,Sub-Saharan Africa
+MRT,MRT,MRT,478,MR,MR,SSA,WAF,,Africa,Sub-Saharan Africa
+MSR,GBR,MSR,500,MS,MH,Laca,WEU,,Americas,Latin America and the Caribbean
+MTQ,FRA,MTQ,474,MQ,MB,Laca,WEU,,Americas,Latin America and the Caribbean
+MUS,MUS,MUS,480,MU,MP,SSA,EAF,MUS,Africa,Sub-Saharan Africa
+MWI,MWI,MWI,454,MW,MI,SSA,RSAF,,Africa,Sub-Saharan Africa
+MYS,MYS,MYS,458,MY,MY,SEAS,SEAS,MYS,Asia,South-eastern Asia
+MYT,FRA,MYT,175,YT,MF,SSA,WEU,,Africa,Sub-Saharan Africa
+NAM,NAM,NAM,516,NA,WA,SSA,RSAF,NAM,Africa,Sub-Saharan Africa
+NCL,FRA,NCL,540,NC,NC,OCE,WEU,,Oceania,Melanesia
+NER,NER,NER,562,NE,NG,SSA,WAF,NER,Africa,Sub-Saharan Africa
+NFK,AUS,NFK,574,NF,NF,OCE,OCE,,Oceania,Australia and New Zealand
+NGA,NGA,NGA,566,NG,NI,SSA,WAF,NGA,Africa,Sub-Saharan Africa
+NIC,NIC,NIC,558,NI,NU,Laca,RCAM,NIC,Americas,Latin America and the Caribbean
+NIU,NZL,NIU,570,NU,NE,OCE,OCE,,Oceania,Polynesia
+NLD,NLD,NLD,528,NL,NL,WEU,WEU,NLD,Europe,Western Europe
+NOR,NOR,NOR,578,NO,NO,WEU,WEU,NOR,Europe,Northern Europe
+NPL,NPL,NPL,524,NP,NP,RSAS,RSAS,NPL,Asia,Southern Asia
+NRU,NRU,NRU,520,NR,NR,OCE,OCE,,Oceania,Micronesia
+NZL,NZL,NZL,554,NZ,NZ,OCE,OCE,NZL,Oceania,Australia and New Zealand
+OMN,OMN,OMN,512,OM,MU,MiddleEast,ME,OMN,Asia,Western Asia
+PAK,PAK,PAK,586,PK,PK,RSAS,RSAS,PAK,Asia,Southern Asia
+PAN,PAN,PAN,591,PA,PN,Laca,RCAM,PAN,Americas,Latin America and the Caribbean
+PCN,GBR,PCN,612,PN,PC,OCE,WEU,,Oceania,Polynesia
+PER,PER,PER,604,PE,PE,Laca,RSAM,PER,Americas,Latin America and the Caribbean
+PHL,PHL,PHL,608,PH,RP,SEAS,SEAS,PHL,Asia,South-eastern Asia
+PLW,PLW,PLW,585,PW,PS,OCE,OCE,,Oceania,Micronesia
+PNG,PNG,PNG,598,PG,PP,SEAS,INDO,,Oceania,Melanesia
+POL,POL,POL,616,PL,PL,CEU,CEU,POL,Europe,Eastern Europe
+PRI,USA,PRI,630,PR,RQ,USA,USA,,Americas,Latin America and the Caribbean
+PRK,PRK,PRK,408,KP,KN,EastAsia,KOR,PRK,Asia,Eastern Asia
+PRT,PRT,PRT,620,PT,PO,WEU,WEU,PRT,Europe,Southern Europe
+PRY,PRY,PRY,600,PY,PA,Laca,RSAM,PRY,Americas,Latin America and the Caribbean
+PSE,PSE,PSE,275,PS,XX,MiddleEast,ME,,Asia,Western Asia
+PYF,FRA,PYF,258,PF,FP,OCE,WEU,,Oceania,Polynesia
+QAT,QAT,QAT,634,QA,QA,MiddleEast,ME,QAT,Asia,Western Asia
+REU,FRA,REU,638,RE,RE,SSA,WEU,,Africa,Sub-Saharan Africa
+ROU,ROU,ROU,642,RO,RO,CEU,CEU,ROU,Europe,Eastern Europe
+RU-01,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-02,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-03,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-04,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-05,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-06,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-07,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-08,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RU-KG,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RUS,RUS,RUS,643,RU,RS,FSU,RUS,RUS,Europe,Eastern Europe
+RWA,RWA,RWA,646,RW,RW,SSA,EAF,,Africa,Sub-Saharan Africa
+SAU,SAU,SAU,682,SA,SA,MiddleEast,ME,SAU,Asia,Western Asia
+SDN,SDN,SDN,729,SD,SU,SSA,EAF,SDN,Africa,Northern Africa
+SEN,SEN,SEN,686,SN,SG,SSA,WAF,SEN,Africa,Sub-Saharan Africa
+SGP,SGP,SGP,702,SG,SN,SEAS,SEAS,SGP,Asia,South-eastern Asia
+SGS,GBR,SGS,239,GS,SX,Laca,WEU,,Americas,Latin America and the Caribbean
+SHN,GBR,SHN,654,SH,SH,SSA,WEU,,Africa,Sub-Saharan Africa
+SJM,NOR,SJM,744,SJ,SV,WEU,WEU,,Europe,Northern Europe
+SLB,SLB,SLB,90,SB,BP,OCE,OCE,,Oceania,Melanesia
+SLE,SLE,SLE,694,SL,SL,SSA,WAF,,Africa,Sub-Saharan Africa
+SLV,SLV,SLV,222,SV,ES,Laca,RCAM,SLV,Americas,Latin America and the Caribbean
+SMR,SMR,SMR,674,SM,SM,WEU,WEU,,Europe,Southern Europe
+SOM,SOM,SOM,706,SO,SO,SSA,EAF,,Africa,Sub-Saharan Africa
+SPM,FRA,SPM,666,PM,SB,USA,WEU,,Americas,Northern America
+SRB,SRB,SRB,688,RS,RB,WEU,CEU,SRB,Europe,Southern Europe
+SSD,SSD,SSD,728,SS,OD,SSA,EAF,SSD,Africa,Sub-Saharan Africa
+STP,STP,STP,678,ST,TP,SSA,WAF,,Africa,Sub-Saharan Africa
+SUR,SUR,SUR,740,SR,NS,Laca,RSAM,SUR,Americas,Latin America and the Caribbean
+SVK,SVK,SVK,703,SK,LO,CEU,CEU,SVK,Europe,Eastern Europe
+SVN,SVN,SVN,705,SI,SI,WEU,CEU,SVN,Europe,Southern Europe
+SWE,SWE,SWE,752,SE,SW,WEU,WEU,SWE,Europe,Northern Europe
+SWZ,SWZ,SWZ,748,SZ,WZ,SSA,RSAF,,Africa,Sub-Saharan Africa
+SXM,NLD,SXM,534,SX,NN,Laca,WEU,,Americas,Latin America and the Caribbean
+SYC,SYC,SYC,690,SC,SE,SSA,EAF,,Africa,Sub-Saharan Africa
+SYR,SYR,SYR,760,SY,SY,MiddleEast,ME,SYR,Asia,Western Asia
+TCA,GBR,TCA,796,TC,TK,Laca,WEU,,Americas,Latin America and the Caribbean
+TCD,TCD,TCD,148,TD,CD,SSA,WAF,,Africa,Sub-Saharan Africa
+TGO,TGO,TGO,768,TG,TO,SSA,WAF,TGO,Africa,Sub-Saharan Africa
+THA,THA,THA,764,TH,TH,SEAS,SEAS,THA,Asia,South-eastern Asia
+TJK,TJK,TJK,762,TJ,TI,FSU,STAN,TJK,Asia,Central Asia
+TKL,NZL,TKL,772,TK,TL,OCE,OCE,,Oceania,Polynesia
+TKM,TKM,TKM,795,TM,TX,FSU,STAN,TKM,Asia,Central Asia
+TLS,TLS,TLS,626,TL,TT,SEAS,INDO,,Asia,South-eastern Asia
+TON,TON,TON,776,TO,TN,OCE,OCE,,Oceania,Polynesia
+TTO,TTO,TTO,780,TT,TD,Laca,RCAM,TTO,Americas,Latin America and the Caribbean
+TUN,TUN,TUN,788,TN,TS,NAF,NAF,TUN,Africa,Northern Africa
+TUR,TUR,TUR,792,TR,TU,MiddleEast,TUR,TUR,Asia,Western Asia
+TUV,TUV,TUV,798,TV,TV,OCE,OCE,,Oceania,Polynesia
+TWN,CHN,TWN,158,TW,TW,CHN,CHN,TWN,Asia,Eastern Asia
+TZA,TZA,TZA,834,TZ,TZ,SSA,RSAF,TZA,Africa,Sub-Saharan Africa
+UGA,UGA,UGA,800,UG,UG,SSA,EAF,UGA,Africa,Sub-Saharan Africa
+UKR,UKR,UKR,804,UA,UP,FSU,UKR,UKR,Europe,Eastern Europe
+UMI,USA,UMI,581,UM,UM,USA,USA,,Oceania,Micronesia
+URY,URY,URY,858,UY,UY,Laca,RSAM,URY,Americas,Latin America and the Caribbean
+US-01,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-02,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-03,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-04,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-05,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-06,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-07,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-08,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-09,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+USA,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-AK,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+US-HI,USA,USA,840,US,US,USA,USA,USA,Americas,Northern America
+UZB,UZB,UZB,860,UZ,UZ,FSU,STAN,UZB,Asia,Central Asia
+VAT,VAT,VAT,336,VA,VT,WEU,WEU,,Europe,Southern Europe
+VCT,VCT,VCT,670,VC,VC,Laca,RCAM,,Americas,Latin America and the Caribbean
+VEN,VEN,VEN,862,VE,VE,Laca,RSAM,VEN,Americas,Latin America and the Caribbean
+VGB,GBR,VGB,92,VG,VI,Laca,WEU,,Americas,Latin America and the Caribbean
+VIR,USA,VIR,850,VI,VO,USA,USA,,Americas,Latin America and the Caribbean
+VNM,VNM,VNM,704,VN,VM,SEAS,SEAS,VNM,Asia,South-eastern Asia
+VUT,VUT,VUT,548,VU,NH,OCE,OCE,,Oceania,Melanesia
+WLF,FRA,WLF,876,WF,WF,OCE,WEU,,Oceania,Polynesia
+WSM,WSM,WSM,882,WS,WS,OCE,OCE,,Oceania,Polynesia
+XAB,XXX,XAB,999,XX,XX,SSA,EAF,,Africa,
+XAC,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XAD,GBR,GBR,826,GB,UK,WEU,WEU,,Europe,Northern Europe
+XAL,XXX,XXX,999,XX,XX,,,,,
+XAP,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XBT,XXX,XXX,999,XX,XX,,,,Africa,
+XCI,FRA,CPT,830,CP,IP,OCE,WEU,,Oceania,
+XCS,XXX,XXX,999,XX,XX,,,,,
+XGK,XXX,XXX,999,XX,XX,,,,Asia,
+XGL,XXX,XXX,999,XX,XX,,,,Americas,
+XHT,XXX,XXX,999,XX,XX,,,,Africa,
+XHV,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XIT,XXX,XXX,999,XX,XX,,,,Africa,
+XKI,XXX,XXX,999,XX,PJ,,,,Asia,
+XKO,SRB,XKX,#N/A,XK,KV,WEU,CEU,,Europe,
+XPI,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XSC,XXX,XXX,999,XX,XX,,,,Africa,
+XSI,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XSK,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+XSS,CHN,CHN,156,CN,CH,CHN,CHN,,Asia,Eastern Asia
+YEM,YEM,YEM,887,YE,YM,MiddleEast,ME,YEM,Asia,Western Asia
+ZAF,ZAF,ZAF,710,ZA,SF,RSAF,SAF,ZAF,Africa,Sub-Saharan Africa
+ZMB,ZMB,ZMB,894,ZM,ZA,SSA,RSAF,ZMB,Africa,Sub-Saharan Africa
+ZWE,ZWE,ZWE,716,ZW,RH,SSA,RSAF,ZWE,Africa,Sub-Saharan Africa
