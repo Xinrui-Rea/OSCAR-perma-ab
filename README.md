@@ -1,6 +1,6 @@
 # 🏔 OSCAR-perma-ab
 
-An abrupt permafrsot thaw emulator.
+Modules for abrupt permafrost thaw, sea level rise, and damage costs.
 
 ## 📚 Documentation
 
@@ -8,7 +8,9 @@ An abrupt permafrsot thaw emulator.
 
 ## 📝 Notes
 
-This emulator is based on an inventory model described in [Turetsky et al. (2020)](https://www.nature.com/articles/s41561-019-0526-0)
+* The abrupt thaw module is based on an inventory model described in [Turetsky et al. (2020)](https://www.nature.com/articles/s41561-019-0526-0).
+* The sea level rise module is adapted from [Pathfinder](https://github.com/tgasser/Pathfinder.git).
+* The damage cost module is derived from the damage dunctions described in [van der Wijst et al. (2023)](https://www.nature.com/articles/s41558-023-01636-1).
 
 ## 🚀 Installation
 
