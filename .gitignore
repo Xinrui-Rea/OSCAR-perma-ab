@@ -3,6 +3,6 @@
 
 new_data/
 
-run_scripts/
+run_scripts/*.ipynb
 
 results/
